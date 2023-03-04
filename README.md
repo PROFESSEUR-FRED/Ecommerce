@@ -1,6 +1,7 @@
 # ecomm_legume
 
-A new Flutter project.
+un projet juste pour s'entrainner avec flutter a realiser l'interface d'un site de ecommerce
+vous pouvez le telecharger et le tester 
 
 ## Getting Started
 
